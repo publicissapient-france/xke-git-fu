@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>Module 3</title>
+    <link rel="stylesheet" href="css/module.css">
+</head>
+
+<body>
+
+<div class="note blue">
+    <p>Feature 31</p>
+</div>
+
+<div class="note taupe">
+    <p>Feature 32</p>
+</div>
+
+</body>
+</html>
